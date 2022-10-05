@@ -1,4 +1,4 @@
-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
+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
 
 MapBoxTokens:
 	Private: sk.eyJ1IjoidzNndyIsImEiOiJjbDZncjFxcnowZXh4M29vNnRjMDgyNGR0In0.rPi5R9RI2RaYXNNWnqXeKQ
